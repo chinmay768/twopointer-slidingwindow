@@ -51,6 +51,7 @@ public class LongestRepeatingCharacterReplacement {
         return maxLen;
     }
 
+
     public static void main(String[] args) {
         String str = "AABABBA";
         System.out.println(characterReplacementBetter(str, 2));
